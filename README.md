@@ -4,7 +4,7 @@
 ## AIM 
 To write a program to find the solution of a matrix using Gaussian Elimination.
 
-## EQUIPMENTS REQUIRED 
+## EQUIPMENTS REQUIRED
  1. Hardware – PCs
  2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
